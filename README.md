@@ -1,8 +1,7 @@
 ONTRAPORT Front-End Evaluation, Short Test
 =============================
 
-Howdy! Welcome to the ONTRAPORT front-end short test. Thank you for your interest in working with us.
-Before we can continue with your application we would like you to complete a short test.  
+Howdy! I have completed the short test.  
 
 
 ###Test description:
